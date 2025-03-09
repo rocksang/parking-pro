@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+.input-container, .report-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    max-width: 400px;
+    margin: 20px auto;
+}
+label {
+    font-weight: bold;
+}
+input, select, button {
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+button {
+    background-color: #32cd32;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #228b22;
+}
+#parkingResults {
+    margin-top: 20px;
+    text-align: left;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.spot {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}

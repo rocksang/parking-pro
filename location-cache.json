@@ -1,0 +1,98 @@
+{
+  "surry hills, sydney": {
+    "lat": -33.884,
+    "lng": 151.21
+  },
+  "crows nest, sydney": {
+    "lat": -33.825,
+    "lng": 151.201
+  },
+  "bondi beach, sydney": {
+    "lat": -33.891,
+    "lng": 151.276
+  },
+  "potts point, sydney": {
+    "lat": -33.867,
+    "lng": 151.225
+  },
+  "townhall, sydney": {
+    "lat": -33.873,
+    "lng": 151.207
+  },
+  "university of sydney, sydney": {
+    "lat": -33.888,
+    "lng": 151.187
+  },
+  "enmore theatre, sydney": {
+    "lat": -33.899006299999996,
+    "lng": 151.1742479161603
+  },
+  "27 watkin street, hurlstone park, sydney": {
+    "lat": -33.90603095,
+    "lng": 151.12510400853802
+  },
+  "27 watkin street, sydney": {
+    "lat": -33.90603095,
+    "lng": 151.12510400853802
+  },
+  "2 drake avenue, sydney": {
+    "lat": -34.03580798252486,
+    "lng": 151.12762001549527
+  },
+  "international airport, sydney": {
+    "lat": -33.9349749,
+    "lng": 151.1658747
+  },
+  "circular quay, sydney": {
+    "lat": -33.8613593,
+    "lng": 151.2107193
+  },
+  "the rock, sydney": {
+    "lat": -33.772542,
+    "lng": 151.2371082
+  },
+  "darling harbour, sydney": {
+    "lat": -33.8675516,
+    "lng": 151.1995619
+  },
+  "glebe market, sydney": {
+    "lat": -33.8834594,
+    "lng": 151.1911572
+  },
+  "6 parramatta rd, sydney": {
+    "lat": -33.86480445815997,
+    "lng": 151.08462510151622
+  },
+  "bankstown central, sydney": {
+    "lat": -33.915836049999996,
+    "lng": 151.03908239683335
+  },
+  "westfield bondi, sydney": {
+    "lat": -33.892298999999994,
+    "lng": 151.25086975002475
+  },
+  "56 glebe point rd, sydney": {
+    "lat": -33.884334659341704,
+    "lng": 151.19285330331118
+  },
+  "westfield burwood, sydney": {
+    "lat": -33.87452745,
+    "lng": 151.10590194588195
+  },
+  "the navy bear, darling point, sydney": {
+    "lat": -33.8723629,
+    "lng": 151.2351513
+  },
+  "530 king st, newtown, sydney": {
+    "lat": -33.897416425333226,
+    "lng": 151.17901407532972
+  },
+  "manly beach, sydney": {
+    "lat": -33.7977705,
+    "lng": 151.2890414231796
+  },
+  "haymarket, sydney": {
+    "lat": -33.8814408,
+    "lng": 151.2044524
+  }
+}

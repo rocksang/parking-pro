@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parking Pro</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Parking Pro</h1>
+    <div class="input-container">
+        <label for="city">City:</label>
+        <select id="city">
+            <option value="Sydney">Sydney</option>
+        </select>
+        <label for="location">Location (area or street):</label>
+        <input type="text" id="location" placeholder="e.g., Newtown or 3 George St">
+        <label for="parkingLength">Parking Length:</label>
+        <select id="parkingLength">
+            <option value="30">30 minutes</option>
+            <option value="60">1 hour</option>
+            <option value="120">2 hours</option>
+            <option value="240">4 hours</option>
+            <option value="480">8 hours</option>
+            <option value="1440">All day (24 hours)</option>
+        </select>
+        <label for="parkingTime">Time for Parking (24h):</label>
+        <input type="text" id="parkingTime" placeholder="e.g., 14:30">
+        <label for="parkingType">Type:</label>
+        <select id="parkingType">
+            <option value="any">Any</option>
+            <option value="free">Free</option>
+            <option value="paid">Paid</option>
+        </select>
+        <button id="findParking">Find Parking</button>
+    </div>
+    <div class="report-container">
+        <h2>Report a Spot</h2>
+        <input type="text" id="reportLocation" placeholder="e.g., 3 George St">
+        <select id="reportFree">
+            <option value="true">Free</option>
+            <option value="false">Paid</option>
+        </select>
+        <input type="text" id="reportRules" placeholder="e.g., Free after 6pm">
+        <input type="number" id="reportMaxMinutes" placeholder="Max Minutes">
+        <button id="reportParking">Report Spot</button>
+    </div>
+    <div id="parkingResults"></div>
+    <script src="script.js"></script>
+</body>
+</html>
